@@ -1,2 +1,3 @@
-# llm-techniques-reading-list
-Reading list for the modern LLM techniques study group (chain-of-thought, RAG, MoE)
+# Modern LLM Techniques Study Group
+Weekly readings curated from the arXiv mirror.
+Order: chain-of-thought prompting, then retrieval-augmented generation, then mixture-of-experts models.
